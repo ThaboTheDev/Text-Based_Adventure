@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Text-based_AdventureGame/1.0.0": {
+        "runtime": {
+          "Text-based_AdventureGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Text-based_AdventureGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/home/thabothedev/dev/Text-based_AdventureGame/bin/Debug/net9.0/Text-based_AdventureGame
+/home/thabothedev/dev/Text-based_AdventureGame/bin/Debug/net9.0/Text-based_AdventureGame.deps.json
+/home/thabothedev/dev/Text-based_AdventureGame/bin/Debug/net9.0/Text-based_AdventureGame.runtimeconfig.json
+/home/thabothedev/dev/Text-based_AdventureGame/bin/Debug/net9.0/Text-based_AdventureGame.dll
+/home/thabothedev/dev/Text-based_AdventureGame/bin/Debug/net9.0/Text-based_AdventureGame.pdb
+/home/thabothedev/dev/Text-based_AdventureGame/obj/Debug/net9.0/Text-based_AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/thabothedev/dev/Text-based_AdventureGame/obj/Debug/net9.0/Text-based_AdventureGame.AssemblyInfoInputs.cache
+/home/thabothedev/dev/Text-based_AdventureGame/obj/Debug/net9.0/Text-based_AdventureGame.AssemblyInfo.cs
+/home/thabothedev/dev/Text-based_AdventureGame/obj/Debug/net9.0/Text-based_AdventureGame.csproj.CoreCompileInputs.cache
+/home/thabothedev/dev/Text-based_AdventureGame/obj/Debug/net9.0/Text-based_AdventureGame.dll
+/home/thabothedev/dev/Text-based_AdventureGame/obj/Debug/net9.0/refint/Text-based_AdventureGame.dll
+/home/thabothedev/dev/Text-based_AdventureGame/obj/Debug/net9.0/Text-based_AdventureGame.pdb
+/home/thabothedev/dev/Text-based_AdventureGame/obj/Debug/net9.0/Text-based_AdventureGame.genruntimeconfig.cache
+/home/thabothedev/dev/Text-based_AdventureGame/obj/Debug/net9.0/ref/Text-based_AdventureGame.dll

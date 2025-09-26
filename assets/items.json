@@ -1,0 +1,4 @@
+[
+  { "Name": "Key", "Type": "Key", "Effect": null },
+  { "Name": "Potion", "Type": "Consumable", "Effect": { "Health": 10 } }
+]

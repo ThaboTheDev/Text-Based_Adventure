@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "start",
+    "Description": "You are in a small hut with a door to the north.",
+    "Exits": { "north": "forest" },
+    "Items": ["key"],
+    "Enemies": []
+  },
+  {
+    "Id": "forest",
+    "Description": "A dark forest surrounds you. Paths lead east and south.",
+    "Exits": { "south": "start", "east": "cave" },
+    "Items": ["potion"],
+    "Enemies": ["goblin"]
+  }
+]

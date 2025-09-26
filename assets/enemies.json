@@ -1,0 +1,4 @@
+[
+  { "Name": "Goblin", "Health": 20, "Attack": 5 },
+  { "Name": "Orc", "Health": 40, "Attack": 10 }
+]
